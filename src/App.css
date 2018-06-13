@@ -27,11 +27,6 @@
   to { transform: rotate(360deg); }
 }
 
-h1{
-  font: 54px;
-  color: #fff;
-}
-
 body {
   background-color: #888;
 }
